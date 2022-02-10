@@ -1,55 +1,70 @@
 #include<stdio.h> 
 int add(int x, int y) 
 { 
+
  int c; 
  c=x+y; 
  printf("\nThe sum is=%d\n\n",c); 
+
 } 
 int sub(int d, int e) 
 { 
+
  int f; 
     f=d-e; 
     printf("\nThe subtraction is=%d\n\n",f); 
+
 } 
 int mult(int x, int y) 
 { 
+
  int i; 
  i=x*y; 
  printf("\nThe multiplication is=%d\n\n",i); 
+
 } 
 double div(double x, double y) 
 { 
+
     double m; 
     m=x/y; 
     printf("\nDivison is=%.3lf\n\n",m); 
+
 } 
 int sq(int x, int y) 
 { 
+
     int sqr1,sqr2; 
     sqr1=x*x; 
     sqr2=y*y; 
     printf("\nSquare of %d is=%d\n",x,sqr1); 
     printf("\nSquare of %d is=%d\n\n",y,sqr2); 
+
 } 
 int cube(int x, int y) 
 { 
+
     int cub1,cub2; 
     cub1=x*x*x; 
     cub2=y*y*y; 
     printf("\nCube of %d is=%d\n",x,cub1); 
     printf("\nCube of %d is=%d\n\n",y,cub2); 
+
 } 
 int percentage(int x,int y) 
 { 
+
     float per1,per2; 
     per1=100*x/y; 
     per2=100*y/x; 
     printf("\n%d is %.3f %c of %d\n",x,per1,37,y);
     printf("\n%d is %.3f %% of %d\n\n",y,per2,x);
+
 } 
  
 int main() 
 { 
+
  int x,y,options=0; 
  printf("Enter numbers one by one:\n"); 
  scanf("%d%d",&x,&y); 
@@ -86,5 +101,7 @@ int main()
  default: 
     printf("\n\nPlease enter number from the given list!\n"); 
     main(); 
+    
 } 
+
 } 
