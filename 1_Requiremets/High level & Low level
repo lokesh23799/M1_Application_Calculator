@@ -1,0 +1,16 @@
+Description:
+1:This project is about making a digital simple calculator .
+2:This work is centered on the design and implementation of calculator for education organization.
+3:To make a easier working tool capable of mathematical knowledge and solving sophisticated problems.
+4:The Project is primarily focused on numbers and arithemetic operations.
+5:It will help in calculating mathematical problems,and also easy to retrieval of project.
+
+
+Requirements:
+         High level:
+                    1:Program will do addition, subtraction, multiplication, division.
+                    2:It will find also find square, cube, and percentage of numbers.
+
+         Low level :
+                    1:Variables are used to store results ,take operations, and take numeric values.
+                    2:Switch case is used to jump to operators selected by user.
