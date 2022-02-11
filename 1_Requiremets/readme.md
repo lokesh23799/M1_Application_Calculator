@@ -81,3 +81,14 @@ Requirements:
                     1:Variables are used to store results ,take operations, and take numeric values.
                     
                     2:Switch case is used to jump to operators selected by user.
+                    
+                    3:Divide operations will not divide bh zero.
+                    
+                    
+                    
+                    
+      References:
+           1:Seek help from colleagues.
+
+       Improvement:
+           1:practised and improved the code.
