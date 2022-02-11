@@ -10,6 +10,24 @@ Description:
 
 5:It will help in calculating mathematical problems,and also easy to retrieval of project.
 
+
+
+  Research
+  
+  To make C program for the Csimple alculator which can calculate Addition, Subtraction, Multiplication, Division, finding Square,Cube, and Percentage of the numbers.
+
+  It may be little bit tricky but here we will use the basic concepts of C programming as follows:
+
+function call,
+
+recursion,
+
+if-else statement
+
+switch-case
+
+
+
   Cost and Features
   
 • The advantage of this project the the quickness in which the program works and no need to perform heavy calculation which will be taken care by the program
@@ -19,6 +37,8 @@ Description:
   Defining MY System
   
 • The system will be getting some essential paramenters from the user and it will compute the values and with which it will be able to choose or design the product.
+
+
    
    4W's and 1'H
    
@@ -39,10 +59,14 @@ Where:
 
 Requirements:
 
+
          High level:
                     1:Program will do addition, subtraction, multiplication, division.
+                    
                     2:It will find also find square, cube, and percentage of numbers.
+                    
 
          Low level :
                     1:Variables are used to store results ,take operations, and take numeric values.
+                    
                     2:Switch case is used to jump to operators selected by user.
