@@ -1,4 +1,5 @@
 Description:
+
 1:This project is about making a digital simple calculator .
 2:This work is centered on the design and implementation of calculator for education organization.
 3:To make a easier working tool capable of mathematical knowledge and solving sophisticated problems.
@@ -6,6 +7,7 @@ Description:
 5:It will help in calculating mathematical problems,and also easy to retrieval of project.
 
   Cost and Features
+  
 • The advantage of this project the the quickness in which the program works and no need to perform heavy calculation which will be taken care by the program
 
 • A lot of time and money can be saved in this project as the result leads to quick installation and accurate results.
@@ -14,6 +16,7 @@ Description:
 • The system will be getting some essential paramenters from the user and it will compute the values and with which it will be able to choose or design the product.
    
    4W's and 1'H
+   
 Who:
 • Intended for people who want to calculate addition, subtraction, multiplication,division, square, cube and percentage of numbers.
 
@@ -28,6 +31,7 @@ Where:
 
 
 Requirements:
+
          High level:
                     1:Program will do addition, subtraction, multiplication, division.
                     2:It will find also find square, cube, and percentage of numbers.
