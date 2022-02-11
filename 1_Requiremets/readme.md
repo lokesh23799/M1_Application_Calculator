@@ -72,17 +72,17 @@ Requirements:
 
 
          High level:
-                    1:Program will do addition, subtraction, multiplication, division.
+                    1:Program will do addition, subtraction, multiplication, division. (Implemented)
                     
-                    2:It will find also find square, cube, and percentage of numbers.
+                    2:It will find also find square, cube, and percentage of numbers.   (Implemented)
                     
 
          Low level :
-                    1:Variables are used to store results ,take operations, and take numeric values.
+                    1:Variables are used to store results ,take operations, and take numeric values.  (Implemented)
                     
-                    2:Switch case is used to jump to operators selected by user.
+                    2:Switch case is used to jump to operators selected by user.  (Implemented)
                     
-                    3:Divide operations will not divide bh zero.
+                    3:Divide operations will not divide bh zero.  (Implemented)
                     
                     
                     
