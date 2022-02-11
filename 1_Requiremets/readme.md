@@ -34,6 +34,8 @@ When:
 Where:
 • Users can use this application on their desktop or laptop terminal.
 
+![SWOT Analysis for calculator](https://user-images.githubusercontent.com/63411785/153553140-4a2e1ce7-80ce-408d-811b-75b55c937174.jpg)
+
 
 Requirements:
 
