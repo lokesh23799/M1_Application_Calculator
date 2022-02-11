@@ -1,6 +1,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/347195fe10ec4698bcae9ad0ffb402e1)](https://www.codacy.com/gh/lokesh23799/M1_Calculator_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lokesh23799/M1_Calculator_Application&amp;utm_campaign=Badge_Grade)
 ![Code grade](https://api.codiga.io/project/31069/score/svg)
 ![Code grade](https://api.codiga.io/project/31069/status/svg)
+[![cppcheck](https://github.com/lokesh23799/M1_Calculator_Application/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/lokesh23799/M1_Calculator_Application/actions/workflows/c-cpp.yml)
 # M1_Application_Calculator
 I have made a C program for the simpe Calculator which can calculate Addition, Subtraction, Multiplication, Division, finding Square,Cube, and Percentage of the numbers.
 
