@@ -1,9 +1,13 @@
 Description:
 
 1:This project is about making a digital simple calculator .
+
 2:This work is centered on the design and implementation of calculator for education organization.
+
 3:To make a easier working tool capable of mathematical knowledge and solving sophisticated problems.
+
 4:The Project is primarily focused on numbers and arithemetic operations.
+
 5:It will help in calculating mathematical problems,and also easy to retrieval of project.
 
   Cost and Features
@@ -13,6 +17,7 @@ Description:
 • A lot of time and money can be saved in this project as the result leads to quick installation and accurate results.
 
   Defining MY System
+  
 • The system will be getting some essential paramenters from the user and it will compute the values and with which it will be able to choose or design the product.
    
    4W's and 1'H
