@@ -16,7 +16,7 @@
    Research:
            
   
-          To make C program for the Csimple alculator which can calculate Addition, Subtraction, Multiplication, Division, finding Square,Cube, and Percentage of the numbers.
+          To make C program for the a simple alculator which can calculate Addition, Subtraction, Multiplication, Division, finding Square,Cube, and Percentage of the numbers.
 
           It may be little bit tricky but here we will use the basic concepts of C programming as follows:
 
@@ -55,6 +55,9 @@ Cost and Features:
 
        Where:
            • Users can use this application on their desktop or laptop terminal.
+           
+       How:
+           •	Thinking about how the computations involved in finding the calculations can be easily implemented programmatically.
 
 ![SWOT Analysis for calculator](https://user-images.githubusercontent.com/63411785/153553140-4a2e1ce7-80ce-408d-811b-75b55c937174.jpg)
 
