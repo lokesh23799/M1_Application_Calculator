@@ -45,4 +45,19 @@ Folder	Description
 6_Videos and Images	   :          Documents with Videos about the working of the project
 
 
-7_Others	       :                Documents with Data Sheets
+7_Others	       :                Documents with Data Sheets\
+
+
+
+
+
+
+
+
+
+
+References:
+       1:Seek help from colleagues.
+
+   Improvement:
+       1:practised and improved the code.
