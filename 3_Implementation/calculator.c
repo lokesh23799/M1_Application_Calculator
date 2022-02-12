@@ -7,11 +7,11 @@ int addition(int g, int h)
  printf("\nThe sum is=%d\n\n",c); 
 
 } 
-int subtraction(int d, int e) 
+int subtraction(int g, int h) 
 { 
 
  int f; 
-    f=d-e; 
+    f=g-h; 
     printf("\nThe subtraction is=%d\n\n",f); 
 
 } 
@@ -100,7 +100,7 @@ int main()
  break; 
  default: 
     printf("\n\nPlease enter number from the given list!\n"); 
-    main(); 
+    
     
 } 
 
