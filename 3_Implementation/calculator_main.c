@@ -1,11 +1,14 @@
-#include"calculator.h"
+#include "calculator.h"
+
+
+
 
 int main() 
 { 
 
  int g,h,options=0; 
  printf("Enter numbers one by one:\n"); 
- scanf("%d%d",&g,&h); 
+ scanf("%d %d",&g,&h); 
  printf("\nWelcome! What do you want to perform in your calculator?\n"); 
  printf("\n1.For Addition enter 1\n\n2.For Subtraction enter 2\n"); 
  printf("\n3.For Multiplication enter 3\n\n4.For Division enter 4\n"); 

@@ -1,7 +1,10 @@
-#include"calculator.h"
-
 #ifndef CALCULATOR_H_
 #define CALCULATOR_H_
+
+
+#include "stdio.h"
+
+
 
 
 /**
@@ -10,42 +13,43 @@
  * 
  */
 
-int addition(int g, int h)
+int addition(int g, int h);
 
 /**
  * @brief subtraction
  * 
  */
-int subtraction(int d, int e) 
+
+int subtraction(int g, int h);
 
 /**
  * @brief multiplication
  * 
  */
-int multiplication(int g, int h)
+int multiplication(int g, int h);
 
 /**
  * @brief division
  * 
  */
-double division(double g, double h)
+double division(double g, double h);
 
 /**
  * @brief square
  * 
  */
-int square(int g, int h) 
+int square(int g, int h); 
 
 /**
  * @brief cube
  * 
  */
-int cube(int g, int h)
+int cube(int g, int h);
 
 /**
  * @brief percentage
  * 
  */
-int percentage(int g,int h)
+int percentage(int g,int h);
 
-# endif
+#endif
