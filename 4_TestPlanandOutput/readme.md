@@ -1,7 +1,6 @@
 Screenshots of all the output of the programs 
-![Screenshot (12)](https://user-images.githubusercontent.com/63411785/153554011-78df444c-0487-4b06-89bd-e06e28ed4e73.png)
-![Screenshot (13)](https://user-images.githubusercontent.com/63411785/153554026-1d672dd1-cd1d-4579-a1c2-71f31374ecd1.png)
-![Screenshot (14)](https://user-images.githubusercontent.com/63411785/153554042-7a4688d2-ad11-45c7-9489-fa2deedca2a8.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/63411785/153554059-8bb74f3d-63dd-4b80-a0cc-42dc909d4a91.png)
-![Screenshot (16)](https://user-images.githubusercontent.com/63411785/153554075-bfcb141c-0daf-418e-8fa1-af98fe2993d6.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/63411785/156433437-42233b71-eb7e-4147-bf0e-5d48ef781096.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/63411785/156433562-62a0998b-6bca-421c-a541-6db4a9449376.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/63411785/156433581-32c8c36d-b7a6-4655-b970-9a6d8c57c4e1.png)
+
 
