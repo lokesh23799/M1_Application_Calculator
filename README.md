@@ -3,6 +3,7 @@
 ![Code grade](https://api.codiga.io/project/31069/status/svg)
 [![cppcheck](https://github.com/lokesh23799/M1_Calculator_Application/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/lokesh23799/M1_Calculator_Application/actions/workflows/c-cpp.yml)
 [![Makefile CI](https://github.com/lokesh23799/M1_Calculator_Application/actions/workflows/makefile.yml/badge.svg)](https://github.com/lokesh23799/M1_Calculator_Application/actions/workflows/makefile.yml)
+[![Build-Linux](https://github.com/lokesh23799/M1_Calculator_Application/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/lokesh23799/M1_Calculator_Application/actions/workflows/Build-Linux.yml)
 
 # M1_Application_Calculator
 I have made a C program for the simpe Calculator which can calculate Addition, Subtraction, Multiplication, Division, finding Square,Cube, and Percentage of the numbers.
