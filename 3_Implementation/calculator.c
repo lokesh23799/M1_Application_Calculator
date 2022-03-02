@@ -1,6 +1,4 @@
 #include"calculator.h" 
-#include<stdio.h>
-
 int addition(int g, int h) 
 { 
 
